@@ -1,6 +1,6 @@
 # jieba-tag-extractor
 ```
-$ cat ~/test.log | python main.py cd ..
+$ cat ~/test.log | python main.py
 Building prefix dict from /path/jieba/jieba/dict.txt ...
 Loading model from cache /tmp/jieba.cache
 Loading model cost 0.629153013229 seconds.
